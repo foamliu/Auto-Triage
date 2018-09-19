@@ -18,5 +18,5 @@ NaiveBayes|MultinomialNB|SGD|
 
 ### SGD 的详细报表
 
-![image](https://github.com/foamliu/Word-Embeddings/raw/master/images/classification_report.jpg)
+![image](https://github.com/foamliu/Auto-Triage/raw/master/images/classification_report.jpg)
 
